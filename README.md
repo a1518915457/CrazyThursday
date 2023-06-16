@@ -1,1 +1,1 @@
-# CrazyThursday
+![quiz](quiz.jpg "KFC")
